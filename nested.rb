@@ -110,6 +110,7 @@ def changing_alan
      return changing_alan = [:programmer_hash][:alan_kay][:alans_new_info] => "GUI"
  end
 
+
 def adding_to_dennis
 	programmer_hash = 
  		{
